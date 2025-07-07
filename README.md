@@ -12,6 +12,4 @@ Welcome to my GitHub profile! I'm a 🧑‍💻 Computer Engineering Technology 
   - 💻 Web Development  
   - 🔋 Microcontroller  
 - 📫 How to reach me: arlonylasco5@gmail.com 📬  
-- ⚡ Fun fact: I have a male cat named Basia and dog name Rusty. 😄
 
-Thanks for stopping by! Have a great day! 🌟
