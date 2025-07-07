@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a 🧑‍💻 Computer Engineering Technology Student from **Technological University of the Philippines - Manila**, passionate about technology and development.
 
-- 🌱 I’m currently learning: **Web Development** 🌐, **Microcontrollers** 🤖  
 - 💻 I work on: **App Development** 📱, **Automation Projects** ⚙️, and **Embedded Systems** 🔌  
 - 🛠️ Tools & Technologies I use:
   - 🧩 Jira  
