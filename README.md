@@ -1,5 +1,3 @@
-# 🛡️ Arlo_The_Knight
-
 # 👋 Hi, I'm Arlon Jr. T. Ylasco!
 
 Welcome to my GitHub profile! I'm a 🧑‍💻 Computer Engineering Technology Student from **Technological University of the Philippines - Manila**, passionate about technology and development.
